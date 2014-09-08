@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$interface_thinksquirrel_software_1_1_thinkscroller_1_1_i_parallax.html" title="Parallax manager interface type." alt="" coords="32,5,317,33"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_software_1_1_thinkscroller_1_1_parallax.html" title="ThinksquirrelSoftware.Thinkscroller.Parallax" alt="" coords="432,5,712,33"/>
+<area shape="rect" id="node4" href="$interface_thinksquirrel_software_1_1_thinkscroller_1_1_i_scroll_layer.html" title="Scroll layer interface type." alt="" coords="23,109,326,137"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_software_1_1_thinkscroller_1_1_scroll_layer.html" title="ThinksquirrelSoftware.Thinkscroller.ScrollLayer" alt="" coords="422,109,722,137"/>
+<area shape="rect" id="node7" href="$class_thinksquirrel_software_1_1_thinkscroller_1_1_thinkscroller_base.html" title="MonoBehaviour base class for all Thinkscroller components." alt="" coords="5,57,344,85"/>
+<area shape="rect" id="node11" href="$class_thinksquirrel_software_1_1_thinkscroller_1_1_scroll_layer_animation.html" title="ThinksquirrelSoftware.Thinkscroller.ScrollLayerAnimation" alt="" coords="393,57,751,85"/>
+</map>
